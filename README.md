@@ -1,15 +1,15 @@
-# to-do-list-app
+# To-do-list-app
 
-# Objective
+## Objective
 To create a small application using javaScript and jQuery that will allow users to add, remove and cross tasks in thier list.
 
-# Key Features
+## Key Features
 + Allow user to add a task.
 + Allow user to deleted a task.
 + Have multiplate tasks at the same time.
 + Cross the task as its done.
 
-# Links
+## Links
 
 [A github page with code](https://github.com/freak906/to-do-list-app)
 
@@ -17,6 +17,6 @@ To create a small application using javaScript and jQuery that will allow users 
 
 
 
-# Programming Languages
+## Programming Languages
 + jQuery
 + javaScript 
