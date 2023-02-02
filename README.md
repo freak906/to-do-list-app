@@ -11,9 +11,9 @@ To create a small application using javaScript and jQuery that will allow users 
 
 ## Links
 
-[A github page with code](https://github.com/freak906/to-do-list-app)
+[A github page with code](https://github.com/nick-vns/to-do-list-app)
 
-[An apllication link](https://freak906.github.io/to-do-list-app/)
+[An apllication link](https://nick-vns.github.io/to-do-list-app/)
 
 
 
